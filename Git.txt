@@ -3,3 +3,4 @@ Apple a day keeps a doctor away
 vegetables are healty
 git is fast version control system
 Old is Gold
+git has become a standard
